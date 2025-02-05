@@ -11,5 +11,5 @@ steps:
       addToPath: true
 
   - script: |
-      python Addition.py
-    displayName: 'Run Python Script'
+      python Addition.java
+    displayName: 'Run java Script'
